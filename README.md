@@ -1,6 +1,6 @@
 ## Movie App.
 
-> A Movie App.
+> It's a web App project on movies. A user enables to select a film from the stored data that fetch from the API 
 
 ## Built With
 
